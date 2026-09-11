@@ -12,7 +12,7 @@
 
 <h4 align="center">Full-stack developer building serious AI systems</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakik19&label=Profile%20views&color=0e75b6&style=flat" alt="shakik19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CypheR&label=Profile%20views&color=0e75b6&style=flat" alt="shakik19" /> </p>
 
 I’m a Computer Science & Artificial Intelligence student focused on building real, end-to-end AI products, not toy demos. I work across the stack- backend APIs, databases, frontend interfaces, and AI pipelines to turn vague ideas into systems that people can actually interact with. My work sits at the intersection of software engineering, system design, and applied machine learning, from scalable backends and async data pipelines to RAG systems, agentic workflows, and AI-powered interfaces.
 
